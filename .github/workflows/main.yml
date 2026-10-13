@@ -9,5 +9,5 @@ jobs:
 
     steps:
       - name: Print Message
-        run echo "Schedule Workflow Executed"
+        run: echo "Schedule Workflow Executed"
         
